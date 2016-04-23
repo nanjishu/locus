@@ -2,3 +2,5 @@
 !.gitignore
 !/src
 !/pom.xml
+!README.md
+

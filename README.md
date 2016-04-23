@@ -1,0 +1,1 @@
+This is an exersize for springMVC, velocity, mongodb.
